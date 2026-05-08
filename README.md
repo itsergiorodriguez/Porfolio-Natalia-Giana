@@ -7,7 +7,7 @@
 
 ## 🌐 Sitio en vivo
 
-**→ [https://itsergiorodriguez.github.io/portfolio-natalia-giana/](https://itsergiorodriguez.github.io/Porfolio-Natalia-Giana/)**
+**→ [https://itsergiorodriguez.github.io/portfolio-natalia-giana/](https://itsergiorodriguez.github.io/Porfolio-Natalia-Giana/))**
 
 ## 📖 Sobre el proyecto
 
