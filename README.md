@@ -2,7 +2,7 @@
 
 > Portfolio profesional · Lic. en Trabajo Social y Coordinadora Administrativa
 
-[![Live](https://img.shields.io/badge/sitio-online-c97b5a?style=flat-square)](https://itsergiorodriguez.github.io/portfolio-natalia-giana/)
+[![Live](https://img.shields.io/badge/sitio-online-c97b5a?style=flat-square)](https://itsergiorodriguez.github.io/porfolio-natalia-giana/)
 [![License](https://img.shields.io/badge/licencia-MIT-8a9a7b?style=flat-square)](LICENSE)
 
 ## 🌐 Sitio en vivo
@@ -34,8 +34,8 @@ Portfolio personal de Natalia Paola Giana, Licenciada en Trabajo Social con más
 ## 🚀 Cómo correrlo localmente
 
 ```bash
-git clone https://github.com/itsergiorodriguez/portfolio-natalia-giana.git
-cd portfolio-natalia-giana
+git clone https://github.com/itsergiorodriguez/porfolio-natalia-giana.git
+cd porfolio-natalia-giana
 # Abrir index.html en cualquier navegador moderno
 ```
 
