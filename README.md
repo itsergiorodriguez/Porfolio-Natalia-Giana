@@ -1,4 +1,4 @@
-# Portfolio · Natalia Paola Giana
+# Porfolio · Natalia Paola Giana
 
 > Portfolio profesional · Lic. en Trabajo Social y Coordinadora Administrativa
 
@@ -7,7 +7,7 @@
 
 ## 🌐 Sitio en vivo
 
-**→ [https://itsergiorodriguez.github.io/portfolio-natalia-giana/](https://itsergiorodriguez.github.io/portfolio-natalia-giana/)**
+**→ [https://itsergiorodriguez.github.io/portfolio-natalia-giana/](https://itsergiorodriguez.github.io/porfolio-natalia-giana/)**
 
 ## 📖 Sobre el proyecto
 
