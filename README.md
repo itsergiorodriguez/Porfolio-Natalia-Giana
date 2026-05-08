@@ -53,7 +53,7 @@ No requiere build ni servidor.
 ## 📞 Contacto profesional
 
 - **Email**: nataliagiana82@gmail.com
-- **WhatsApp**: +54 9 2657 620824
+- **WhatsApp**: +54 9 2657 626405
 - **Ubicación**: San Luis, Argentina
 - **Disponibilidad**: Media jornada · 100% Remoto
 
