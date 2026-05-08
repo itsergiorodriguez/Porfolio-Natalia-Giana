@@ -2,12 +2,12 @@
 
 > Portfolio profesional · Lic. en Trabajo Social y Coordinadora Administrativa
 
-[![Live](https://img.shields.io/badge/sitio-online-c97b5a?style=flat-square)](https://itsergiorodriguez.github.io/porfolio-natalia-giana/)
+[![Live](https://img.shields.io/badge/sitio-online-c97b5a?style=flat-square)](https://itsergiorodriguez.github.io/Porfolio-Natalia-Giana/)
 [![License](https://img.shields.io/badge/licencia-MIT-8a9a7b?style=flat-square)](LICENSE)
 
 ## 🌐 Sitio en vivo
 
-**→ [https://itsergiorodriguez.github.io/portfolio-natalia-giana/](https://itsergiorodriguez.github.io/portfolio-natalia-giana/)**
+**→ [https://itsergiorodriguez.github.io/portfolio-natalia-giana/](https://itsergiorodriguez.github.io/Porfolio-Natalia-Giana/)**
 
 ## 📖 Sobre el proyecto
 
